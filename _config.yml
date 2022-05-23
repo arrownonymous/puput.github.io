@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+title:               Poet.
+tagline:             'Berpuisi'
+description:         'Kumpulan puisi hasil coretan putri novianti'
+url:                 'http://puput.github.io'
+baseurl:             '/'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Putri Novianti
+  url:               instagram.com/ppt.nih
+  email:             -
 
 # Permalinks
 
